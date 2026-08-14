@@ -1,5 +1,11 @@
 # Bootcamp Repository
 
+## Setup
+
+```bash
+python -m pip install -r requirements.txt
+```
+
 ## Folder Structure
 
 - **homework/** -> All homework contributions will be submitted here.
