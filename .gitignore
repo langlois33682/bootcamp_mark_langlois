@@ -1,9 +1,20 @@
-# Ignore local class materials
+# Local class materials - never pushed
 class_materials/
 
-# Ignore Python cache files
+# Secrets
+.env
+
+# Local Python environments
+.venv/
+env/
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
 
-# Ignore environment files
-.env
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
